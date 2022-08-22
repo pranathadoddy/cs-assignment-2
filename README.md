@@ -33,3 +33,10 @@ hanya mendapatkan port http dan https yang terbuka
 Disini saya menggunakan waplyzer dan mendapatkan data sebagai berikut
 
 ![image](https://user-images.githubusercontent.com/6330046/185930351-721839d2-8ba4-4ae1-b6e8-029bf3e08f35.png)
+
+4. Melakukan directory search
+
+Disini menggunakan tools dirsearch dan berhasil mendapatkan banyak file server side yang tersembunyi
+
+![image](https://user-images.githubusercontent.com/6330046/185932223-415d2e22-f156-4ae4-be7a-3d321bf51838.png)
+
